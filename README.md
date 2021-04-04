@@ -1,6 +1,6 @@
 # auto-fill-and-submit-google-form
 
-## How to use:
+## How to use:  ##
 Step 1: Write script according to your google form.  
         (Method is explained in the script file using comments and steps)  
 Step 2: Download this chrome Extension in your PC  
