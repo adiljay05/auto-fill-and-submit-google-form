@@ -61,6 +61,7 @@ url = "https://docs.google.com/forms/d/e/1FAIpQLSfNC4OzmzvRC7JmODkrYeQWEixpy3_4i
 //******************** Step 5: Generate random time for form submittion ********************
 function get_random_time(range,min){
     time = Math.floor(Math.random() * range) + min;     // generate number from min to min+range
+    console.log(time+" minutes")
     return time*60000;      // return milliseconds for form submission
 }
 
