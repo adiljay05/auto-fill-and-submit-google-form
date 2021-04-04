@@ -11,5 +11,5 @@ Step 4: Enter the Following URL in Site option:
 Step 5: Give any Title to your script.  
 Step 6: Now go to this URL and press F12:  
         https://docs.google.com/forms/d/  
-        ### If you see random minutes on console, congratulations you are successfull.  
-        ### you need to wait then.  
+        ### If you see random minutes on console, congratulations you are successfull.  ###
+        ### you need to wait then.  ###
