@@ -32,6 +32,7 @@ function get_random_age(min,range){
 }
 
 function get_height(min,range){
+    precision = 10;
     // get height between 4.0 to 6.0 (4.0 to 4.0+random number from 0.0-2.0)
     return Math.floor(Math.random() * (range * precision - 1 * precision) + 1 * precision) / (1*precision)+min;
 }
