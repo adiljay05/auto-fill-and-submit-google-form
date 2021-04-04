@@ -25,4 +25,4 @@ https://www.facebook.com/jawadadil6
 Drop me an email at adiljay05@gmail.com  
 
 ## How to use Screenshots ##
-![Adding script to chrome extension]("./steps_images/1. adding script.png")
+![Adding script to chrome extension](./steps_images/1.adding_script.png)
