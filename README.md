@@ -23,3 +23,6 @@ Step 2: You have 2 options
 ## In case of errors or any assistance ##
 https://www.facebook.com/jawadadil6  
 Drop me an email at adiljay05@gmail.com  
+
+## How to use Screenshots ##
+![Adding script to chrome extension](https://imgur.com/a/QRz8gbH)
