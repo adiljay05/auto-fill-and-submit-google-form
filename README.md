@@ -25,4 +25,13 @@ https://www.facebook.com/jawadadil6
 Drop me an email at adiljay05@gmail.com  
 
 ## How to use Screenshots ##
+### Uploading your script to extension ###
 ![Adding script to chrome extension](./steps_images/1.adding_script.png)
+### Running the script ###
+Visit the following URL  
+![Adding script to chrome extension](./steps_images/visit_link.png)
+### Keep Checking for console ###
+Press F12 after hitting the URL. If you get similar to this, you are good to go.  
+![Adding script to chrome extension](./steps_images/waiting_time.png)
+### Stopping the script ###
+![Adding script to chrome extension](./steps_images/stopping.png)
